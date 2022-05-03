@@ -1,0 +1,363 @@
+ 
+        ______________________________________
+       |                                      |
+       |          ===================         |
+       |             xTB for sTDA             |
+       |          ===================         |
+       |               S. Grimme              |
+       |        Universitaet Bonn, MCTC       |
+       |         2015-19, Version 1.0         |
+       |     Wed Apr  3 09:14:55 CEST 2019    |
+       |______________________________________|
+ 
+        This code comes without any warranty
+        for non-commercial, academia use only.
+        Preliminary test version.
+        Cite this work as:
+        S. Grimme  &  C. Bannwarth, JCP 145 (2016) 054103
+        if GBSA is used additionally:
+        P. Shushkov, F. März, C. Bannwarth, S. Grimme, unpublished.
+ 
+        with help from
+        P. Shushkov, G. Brandenburg, S. Dohm, J. Pisarek,
+        F. März, M. Checinski, S. Ehrlich, S. Spicher, 
+        P. Pracht, E. Caldeweyher, S. Ehlert, and C. Bannwarth.
+ 
+        usage        :
+        xtb4stda <coord_file> [options]
+        where <coord_file> is a valid file of TM)
+        (*coord, Bohr) or xmol (*xyz, Angstroem)
+        format.
+
+        options:
+        -chrg <int>   : molecular charge
+        -uhf  <int>   : # of unpaired electrons(=2*S)
+        -nox          : skip second, extended part in sTDA-xTB
+        -pop          : do population analysis
+                      : (default for -nox)
+        -mowr <real>  : cut MO write above (def.3 Eh)
+        -molden       : write formatted molden file
+        -parx <file>  : read parameters for sTDA-xTB
+                        calc (def:~/.param_stda2.xtb)
+        -parv <file>  : read parameters for vTB part in
+                        sTDA-xTB (def: ~/.param_stda1.xtb)
+        -xtemp <real> : el. temp for xTB (def. 0 K)
+        -etemp <real> : el. temp for GFN (def. 300 K)
+        -fod          : calculate the FOD and write
+                        molden.input file with
+                        appropriate occupations
+                        for plotting. Def. T=12500 K
+ 
+        -acc <real>   : xTB accuracy (def. 1.0)
+        -gbsa [string1] [string2]
+                        use GBSA implicit solvent
+                        for solvent [string1] and
+                        solvation state [string2]=
+                        reference, bar1M (default=1M)
+        additional GFN/opt/MD/siman options read from
+        $XTB4STDAHOME/.xtb4stdarc or $set in input
+ 
+       spin and charge state information can be on:
+       <.CHRG> (charge) and <.UHF> (=nalpha-nbeta)
+       -uhf and -chrg override the file info.
+       useful machine settings:
+       setenv MKL_NUM_THREADS <NCORE_ON_YOUR_MACHINE>
+       setenv OMP_STACKSIZE 500m
+       limit stacksize unlimited
+ 
+       total energies in Eh, gaps/HL energies in eV
+       please read REVISION and HOWTO files carefully
+ =============================
+  # OMP threads =           1
+ =============================
+ 
+ xtb4stdahome directory:/ihome/ghutchison/blp62/xtb4stda/
+ 
+ 
+ name of molecule           :
+ comment line               :
+ number of atoms            :    21
+ number of electrons        :    74
+ charge                     :  0
+ spin                       : 0.0
+ first test random number   :  0.3068
+ 
+ -----------------------------------------
+      charge density (VTB) calculation
+ -----------------------------------------
+ 
+      method parameters     
+ k(s)        :  1.8000
+ k(p)        :  2.8350
+ k(d)        :  2.0860
+ k(f)        :  2.0000
+ Tscal       :  0.3300
+ Gscal       :  0.3910
+ fpol        :  1.0000
+ Zcnf        :  0.6500
+ Zqf         :  0.0000
+ kcn         :  0.3000
+ kEN1        : -0.5900
+ wllscal     :  2.6000
+ 
+     -------------------------
+     ! NO SOLVENT MODEL USED !
+     -------------------------
+ 
+ doing EN charges ...
+ sum q :  0.9992007D-15
+ point charge moment (au)
+     X       Y       Z   
+  -0.5204  -0.0225  -0.5168  total (Debye):    1.865
+ 
+            Z      q(EN)   CN      Cart. coordinates
+     1  C   4.0  -0.239   4.008    -2.08456    -4.88003     6.49385
+     2  C   4.0  -0.113   4.077     0.30519    -3.30286     6.38425
+     3  O   6.0  -0.142   2.104     0.31218    -1.92242     4.06593
+     4  C   4.0   0.180   3.198     2.31038    -0.42330     3.67060
+     5  O   6.0  -0.107   1.056     4.04704    -0.18633     5.12248
+     6  C   4.0  -0.079   3.222     2.07662     0.87513     1.23342
+     7  S   6.0   0.217   2.501    -0.59130     0.30765    -0.65460
+     8  C   4.0  -0.111   3.462     0.55104     2.38653    -2.93966
+     9  C   4.0  -0.169   3.183    -0.29725     3.20441    -5.22188
+    10  S   6.0   0.217   2.507     1.80941     5.31410    -6.53070
+    11  C   4.0  -0.164   3.156     3.83747     5.10642    -4.01850
+    12  C   4.0  -0.038   3.601     2.93021     3.47086    -2.23007
+    13  C   4.0   0.017   3.319     3.72408     2.54811     0.17102
+    14  F   7.0  -0.024   1.057     5.88121     3.28283     1.23286
+    15  H   1.0   0.081   0.999    -2.14427    -6.18526     4.90989
+    16  H   1.0   0.081   0.999    -3.73826    -3.66626     6.40504
+    17  H   1.0   0.081   0.999    -2.12349    -5.94546     8.24752
+    18  H   1.0   0.080   1.000     0.39949    -1.95889     7.95726
+    19  H   1.0   0.080   1.000     2.00103    -4.48980     6.45511
+    20  H   1.0   0.077   1.013    -1.99347     2.71629    -6.20813
+    21  H   1.0   0.076   1.013     5.55466     6.17676    -3.99129
+ 
+  Z AO/shell   Hii/eV     exponent
+  1     Sat Feb 20 21:38:01 CET 2016    EN: 2.327 GAM: 0.473  GM3: 0.0000
+     1s    -13.751157    1.051071
+  6     Sat Feb 20 21:38:01 CET 2016    EN: 2.731 GAM: 0.422  GM3: 0.0000
+     2s    -19.378245    2.021003
+     2p    -11.993376    1.497917
+  8     Sat Feb 20 21:38:01 CET 2016    EN: 3.700 GAM: 0.587  GM3: 0.0000
+     2s    -21.648843    2.110798
+     2p    -17.239740    2.329048
+  9     Sat Feb 20 21:51:24 CET 2016    EN: 3.394 GAM: 0.669  GM3: 0.0000
+     2s    -19.384211    2.614957
+     2p    -19.426034    2.777297
+ 16     Sat Feb 20 23:13:41 CET 2016    EN: 1.915 GAM: 0.389  GM3: 0.0000
+     3s    -22.000000    2.671470
+     3p    -15.834192    1.836978
+     3d     -2.593599    1.836978
+ 
+ dipole moment of classical point charges (au)
+     X       Y       Z   
+  -0.5204  -0.0225  -0.5168  total (Debye):    1.865
+
+ 
+ Nbf   :           75
+ T(el) :   300.0
+ calculating S/T integrals ...
+ cpu time for ints   7.101000000000001E-003
+ Nao   :           73
+ making H0...
+ making H1...
+ cpu time for H      4.409999999999987E-004
+ solving ...
+ cpu time for diag   3.398999999999998E-003
+ 
+ gap (eV)           :   4.228
+ Koopmans IP (eV)   :  12.947
+ Eel (Eh)           :   -57.144921
+ T,E(Fermi),NFOD :    300.000   -10.833  0.000000
+ T,E(Fermi),NFOD :    300.000   -10.833  0.000000
+ Nfod               :  0.0000
+ Nfod/Nel           :  0.0000
+
+          eigenvalues
+ #    :          25         26         27         28         29         30         31         32
+ occ. :        2.000      2.000      2.000      2.000      2.000      2.000      2.000      2.000
+ eps  :       -19.314    -19.259    -19.158    -19.113    -18.370    -18.211    -18.026    -17.210
+ #    :          33         34         35         36         37         38         39         40
+ occ. :        2.000      2.000      2.000      2.000      2.000      0.000      0.000      0.000
+ eps  :       -16.171    -16.101    -15.695    -14.549    -12.948     -8.720     -8.239     -7.137
+ #    :          41         42         43         44         45         46         47         48
+ occ. :        0.000      0.000      0.000      0.000      0.000      0.000      0.000      0.000
+ eps  :        -6.137     -6.069     -5.134     -4.339     -4.224     -3.602     -3.367     -3.260
+                            1  SCC done.
+ making H1...
+ cpu time for H      3.842999999999997E-003
+ solving ...
+ cpu time for diag   7.520000000000027E-004
+ 
+ gap (eV)           :   4.449
+ Koopmans IP (eV)   :  13.051
+ Eel (Eh)           :   -56.650907
+ T,E(Fermi),NFOD :    300.000   -10.826  0.000000
+ T,E(Fermi),NFOD :    300.000   -10.826  0.000000
+ Nfod               :  0.0000
+ Nfod/Nel           :  0.0000
+
+          eigenvalues
+ #    :          25         26         27         28         29         30         31         32
+ occ. :        2.000      2.000      2.000      2.000      2.000      2.000      2.000      2.000
+ eps  :       -19.203    -19.029    -18.496    -18.289    -17.851    -17.539    -17.518    -16.509
+ #    :          33         34         35         36         37         38         39         40
+ occ. :        2.000      2.000      2.000      2.000      2.000      0.000      0.000      0.000
+ eps  :       -15.791    -15.287    -14.577    -14.431    -13.052     -8.603     -8.256     -6.855
+ #    :          41         42         43         44         45         46         47         48
+ occ. :        0.000      0.000      0.000      0.000      0.000      0.000      0.000      0.000
+ eps  :        -6.173     -5.827     -4.877     -4.264     -4.077     -3.424     -2.954     -2.697
+                            2  SCC done.
+ 
+ 
+ Mulliken/CM5 charges    n(s)   n(p)   n(d)   
+    1 C  -0.0762 -0.2254   1.086  2.990  0.000
+    2 C   0.0561 -0.0263   1.135  2.809  0.000
+    3 O  -0.1498 -0.2314   1.469  4.681  0.000
+    4 C   0.2370  0.2997   1.135  2.628  0.000
+    5 O  -0.2928 -0.3393   1.624  4.669  0.000
+    6 C  -0.0300 -0.0112   1.181  2.849  0.000
+    7 S   0.0621  0.0318   1.892  4.002  0.044
+    8 C  -0.0485 -0.0365   1.166  2.883  0.000
+    9 C  -0.0708 -0.1063   1.123  2.948  0.000
+   10 S   0.1556  0.1148   1.873  3.901  0.070
+   11 C  -0.0773 -0.1127   1.136  2.941  0.000
+   12 C  -0.0483 -0.0469   1.161  2.887  0.000
+   13 C   0.0628  0.0838   1.169  2.769  0.000
+   14 F  -0.0977 -0.1202   1.677  5.421  0.000
+   15 H   0.0321  0.0865   0.968  0.000  0.000
+   16 H   0.0321  0.0865   0.968  0.000  0.000
+   17 H   0.0397  0.0920   0.960  0.000  0.000
+   18 H   0.0434  0.1087   0.957  0.000  0.000
+   19 H   0.0434  0.1087   0.957  0.000  0.000
+   20 H   0.0619  0.1202   0.938  0.000  0.000
+   21 H   0.0651  0.1235   0.935  0.000  0.000
+ 
+ Loewdin charges    n(s)   n(p)   n(d)
+    1 C  -0.0776   1.012  3.065  0.000
+    2 C   0.0532   1.079  2.868  0.000
+    3 O  -0.1130   1.432  4.681  0.000
+    4 C   0.2096   1.109  2.682  0.000
+    5 O  -0.2796   1.593  4.686  0.000
+    6 C  -0.0210   1.141  2.880  0.000
+    7 S   0.0246   1.879  4.000  0.097
+    8 C  -0.0227   1.120  2.902  0.000
+    9 C  -0.0493   1.069  2.980  0.000
+   10 S   0.1208   1.857  3.894  0.129
+   11 C  -0.0503   1.081  2.970  0.000
+   12 C  -0.0500   1.122  2.928  0.000
+   13 C   0.0544   1.136  2.810  0.000
+   14 F  -0.0795   1.659  5.420  0.000
+   15 H   0.0314   0.969  0.000  0.000
+   16 H   0.0314   0.969  0.000  0.000
+   17 H   0.0393   0.961  0.000  0.000
+   18 H   0.0369   0.963  0.000  0.000
+   19 H   0.0369   0.963  0.000  0.000
+   20 H   0.0512   0.949  0.000  0.000
+   21 H   0.0534   0.947  0.000  0.000
+ 
+ Wiberg/Mayer (AO) data. WBOs > 0.1 written file <wbo>
+ largest (>0.05) Wiberg bond orders for each atom
+           total WBO             WBO to atom ...
+     1  C   3.986    C    2 1.016    H   15 0.985    H   16 0.985    H   17 0.979
+     2  C   3.931    C    1 1.016    H   18 0.969    H   19 0.969    O    3 0.957
+     3  O   2.302    C    4 1.085    C    2 0.957    O    5 0.159
+     4  C   3.923    O    5 1.746    O    3 1.085    C    6 1.022
+     5  O   2.098    C    4 1.746    O    3 0.159    C    6 0.075    C   13 0.056
+     6  C   3.933    C   13 1.571    S    7 1.048    C    4 1.022    O    5 0.075    C   11 0.068
+     7  S   2.416    C    8 1.053    C    6 1.048    C   13 0.081    C    9 0.056
+     8  C   3.949    C    9 1.584    C   12 1.137    S    7 1.053    S   10 0.066
+     9  C   3.955    C    8 1.584    S   10 1.189    H   20 0.951    C   11 0.131    S    7 0.056
+    10  S   2.673    C   11 1.230    C    9 1.189    C   12 0.071    C    8 0.066
+    11  C   3.941    C   12 1.496    S   10 1.230    H   21 0.951    C    9 0.131    C    6 0.068
+    12  C   3.953    C   11 1.496    C    8 1.137    C   13 1.118    S   10 0.071
+    13  C   3.921    C    6 1.571    C   12 1.118    F   14 0.989    S    7 0.081    O    5 0.056
+    14  F   1.135    C   13 0.989
+    15  H   0.999    C    1 0.985
+    16  H   0.999    C    1 0.985
+    17  H   0.998    C    1 0.979
+    18  H   0.998    C    2 0.969
+    19  H   0.998    C    2 0.969
+    20  H   0.995    C    9 0.951
+    21  H   0.995    C   11 0.951
+ 
+ --------------------------------------------
+          xTB calculation for sTDA...
+ --------------------------------------------
+ 
+ reading parameter file /ihome/ghutchison/blp62/xtb4stda/.param_stda2.xtb
+ 
+      method parameters     
+ k(s)        :  1.6000
+ k(p)        :  2.1800
+ k(d)        :  1.9500
+ k(f)        :  2.0000
+ k(R-V)      :  2.2750
+ k(R-R)      :  1.7650
+ Tscal       :  0.2580
+ Gscal       :  1.0000
+ fpol        :  1.0000
+ Zcnf        :  0.3430
+ Zqf         :  0.0000
+ kcn         :  2.7000
+ Ryd Hsplit  :  0.7000
+ lshift(virt):  3.1000
+ lshift(OS)  :  0.2000
+ wllscaling  :  2.6000
+ 
+ mowrcut     : 3.000
+ 
+  Z AO/shell   Hii/eV     exponent
+  1     Sun Feb 14 09:53:25 CET 2016    EN: 2.327 GAM: 0.473  GM3: 0.0000
+     1s    -14.339618    1.220000
+     2sp    -3.348946    0.600000
+  6     Sun Feb 14 09:53:25 CET 2016    EN: 2.731 GAM: 0.422  GM3: 0.0000
+     2s    -22.009312    1.565095
+     2p    -13.020408    1.596905
+     3sp    -3.914040    0.824500
+  8     Sun Feb 14 09:53:25 CET 2016    EN: 3.700 GAM: 0.587  GM3: 0.0000
+     2s    -33.859000    2.418661
+     2p    -22.175911    1.973969
+     3sp    -4.259392    1.013700
+  9     Sun Feb 21 12:20:01 CET 2016    EN: 3.394 GAM: 0.600  GM3: 0.0000
+     2s    -26.548112    1.943768
+     2p    -23.081168    2.552035
+     3sp    -1.937199    1.103200
+ 16     Sun Feb 21 16:35:57 CET 2016    EN: 1.915 GAM: 0.200  GM3: 0.0000
+     3s    -17.898811    2.619580
+     3p    -15.317401    1.798798
+     4sp    -4.455139    0.843200
+ 
+ Nbf   :          147
+ T(el) :     0.0
+ calculating S/T integrals ...
+ cpu time for ints   4.759900000000000E-002
+ Nao   :          147
+ making H0...
+ making H1...
+ cpu time for H      6.940000000000002E-004
+ solving ...
+ cpu time for diag   3.700000000000009E-003
+ 
+ gap (eV)           :   6.989
+ Koopmans IP (eV)   :  14.034
+ Eel (Eh)           :   -63.927127
+
+          eigenvalues
+ #    :          25         26         27         28         29         30         31         32
+ occ. :        2.000      2.000      2.000      2.000      2.000      2.000      2.000      2.000
+ eps  :       -20.230    -20.229    -19.994    -19.855    -19.448    -18.326    -18.113    -18.097
+ #    :          33         34         35         36         37         38         39         40
+ occ. :        2.000      2.000      2.000      2.000      2.000      0.000      0.000      0.000
+ eps  :       -17.745    -17.278    -16.550    -15.440    -14.035     -7.045     -5.288     -5.249
+ #    :          41         42         43         44         45         46         47         48
+ occ. :        0.000      0.000      0.000      0.000      0.000      0.000      0.000      0.000
+ eps  :        -4.931     -4.009     -3.834     -3.661     -3.446     -3.404     -3.316     -2.701
+                            1  SCC done.
+ writing mo output ...
+ molden style : F
+ 
+speedup  0.98
+cpu  time for all    0.08 s
+wall time for all    0.08 s

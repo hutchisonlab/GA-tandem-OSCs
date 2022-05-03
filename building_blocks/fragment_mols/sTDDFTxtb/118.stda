@@ -1,0 +1,180 @@
+Mon Jan 17 15:25:35 EST 2022
+
+
+                 *********************************************
+                 *                                           *
+                 *               s  T  D  A                  *
+                 *                                           *
+                 *                S. Grimme                  *
+                 * Mulliken Center for Theoretical Chemistry *
+                 *             Universitaet Bonn             *
+                 *              Version 1.6.2                *
+                 *       Tue Sep 10 14:44:30 CET 2020        *
+                 *********************************************
+ 
+ Please cite as:
+ S. Grimme, J. Chem. Phys. 138 (2013) 244104
+ 
+ With contributions from:
+ C. Bannwarth, P. Shushkov, M. de Wergifosse
+ 
+======================================================================
+ 
+ reading an xTB output...
+ 
+ reading: wfn.xtb
+======================================================================
+                    M O / A O    I N P U T 
+======================================================================
+atom  #          x             y             z            charge
+  C   1      2.25387614    0.65403415    6.36119549         6.00
+  C   2     -0.26796314    0.22393252    5.02100185         6.00
+  N   3      0.04516445    0.07313239    2.32511881         7.00
+  C   4      0.65460107   -2.04902985    0.96942941         6.00
+  C   5      0.93957174   -4.65382810    1.45546693         6.00
+  C   6      1.53918179   -5.92863722   -0.69126175         6.00
+  S   7      1.77672034   -4.04004511   -3.36314527        16.00
+  C   8      1.05087660   -1.41105837   -1.57489761         6.00
+  C   9      0.70373394    1.20810180   -1.76179150         6.00
+  S  10      0.75589038    3.65926533   -3.91248861        16.00
+  C  11     -0.01266116    5.77519147   -1.52633165         6.00
+  C  12     -0.30084437    4.70107124    0.78801572         6.00
+  C  13      0.10847027    2.07019478    0.67557703         6.00
+  H  14      3.54701561   -0.89024989    5.95244777         1.00
+  H  15      1.96890547    0.76118161    8.39189500         1.00
+  H  16      3.10973302    2.40807778    5.71698791         1.00
+  H  17     -1.12589872   -1.53918179    5.67371319         1.00
+  H  18     -1.56563795    1.77747623    5.43693053         1.00
+  H  19      0.72130839   -5.54010957    3.27035973         1.00
+  H  20      1.87063972   -7.91643995   -0.89327346         1.00
+  H  21     -0.20427938    7.73256961   -2.00991252         1.00
+  H  22     -0.77497661    5.74457791    2.46514750         1.00
+
+ # atoms          =   22
+ # mos            =  103
+ # primitive  aos =  779
+ # contracted aos =  149
+
+ spherical AO basis
+======================================================================
+                    A O   I N T E G R A L S
+======================================================================
+ memory needed for AO int data: 873 Kb
+ done.
+  
+Restricted MOs found... RKS-sTD-DFT will be performed
+  
+======================================================================
+                    s T D A
+======================================================================
+ spectral range up to (eV)     :    5.00000000000000     
+ occ MO cut-off (eV)           :   -19.7858206973234     
+ virtMO cut-off (eV)           :   0.470598275670436     
+ perturbation thr              :   1.000000000000000E-004
+ triplet                       :  F
+ MOs in TDA :           33
+ oMOs in TDA:           11
+ vMOs in TDA:           22
+ sorting MOs ...
+ reading and transforming R..V..L AO ints ...
+ ints done.
+ S^1/2 ...
+ S^1/2 orthogonalized MO coefficients done.
+
+ SCF atom population (using active MOs):
+  0.810  0.622  1.050  1.237  1.323  1.282  3.285  1.491  1.491  3.285
+  1.282  1.323  1.237  0.307  0.160  0.307  0.324  0.324  0.268  0.163
+  0.163  0.268
+ 
+ # electrons in TDA:  22.000
+ 
+ 
+ ax(DF)   :   0.500000000000000     
+ s^K      :    2.00000000000000     
+ beta  (J):    4.00000000000000     
+ alpha (K):    2.00000000000000     
+ 
+ hardness table read.
+ setting up gammas ...
+ memory needed for q data (Mb)                      0
+ computing q(ij,n) ...
+ 
+           4 CSF included by energy.
+ 
+         238 considered in PT2.
+ ordered frontier orbitals
+         eV     # centers
+   1   -19.387    12.7
+   2   -19.066    15.9
+   3   -19.016     9.4
+   4   -18.872     9.1
+   5   -17.826     7.5
+   6   -17.723     3.3
+   7   -17.518     3.6
+   8   -16.069     6.5
+   9   -15.646     5.5
+  10   -13.813     7.0
+  11   -13.529     6.8
+ 
+  12    -5.786     8.6
+  13    -5.274    16.4
+  14    -4.629    13.9
+  15    -4.437    14.6
+  16    -4.365     8.0
+  17    -3.795    11.9
+  18    -3.595    15.5
+  19    -3.498    13.0
+  20    -2.872    15.1
+  21    -2.817    14.6
+  22    -2.789    16.2
+ 
+             lowest CSF states
+       eV     nm      excitation i->a               eV
+    1  4.71   263.2       11 ->  13     gap,J,K:   8.255   4.050   0.003   Kshft:   0.500  locality: 0.974
+    2  4.91   252.3       10 ->  12     gap,J,K:   8.027   4.299   0.593   Kshft:   0.000  locality: 0.984
+    3  4.93   251.6       11 ->  12     gap,J,K:   7.743   4.352   0.768   Kshft:   0.000  locality: 0.997
+    4  4.98   248.7       10 ->  13     gap,J,K:   8.539   4.059   0.002   Kshft:   0.500  locality: 0.975
+ 
+ selecting CSF ...
+ average/max PT2 energy lowering (eV):     0.023     0.037
+          47 CSF included by PT.
+          51 CSF in total.
+ sTD-DFT procedure...
+ setting up A+B and A-B matrices
+  calculating (A-B)^0.5 ...
+ estimated time (min)     0.00
+  calculating (A+B)*(A-B)^0.5 ...
+ calculate eigenvalues of (A-B)^0.5*(A+B)*(A-B)^0.5 ...
+  rpa vectors ok
+    4 roots found, lowest/highest eigenvalue :    4.455   4.820   0
+ writing spectral data to tda.dat ...
+ 
+ excitation energies, transition moments and TDA amplitudes
+ state    eV      nm       fL         Rv
+    1    4.455   278.3     0.2635     0.1063     0.93(  10->  12)  0.05(  11->  25)  0.01(   8->  12)
+    2    4.495   275.8     0.1308    -0.1001     0.72(  11->  13)  0.20(  11->  12)  0.05(  11->  14)
+    3    4.598   269.6     0.6479    -0.0076     0.77(  11->  12)  0.18(  11->  13)  0.02(  11->  14)
+    4    4.820   257.3     0.0073     0.0089     0.93(  10->  13)  0.03(  10->  14)  0.02(   9->  15)
+
+  alpha tensor
+
+           1         2         3
+ 
+    1   3.03588
+    2 -10.84667  80.70087
+    3  -4.43526  -4.41345  28.90337
+ trace alpha_L[0] / au:   37.5467079106210     
+ sum rule f_L           1.04948618765113     
+ 
+ SOS specific optical rotation 
+ including Lorentz factor for common solvent (n=1.4)
+ lambda [eV] alpha[grad*cm^3*g^-1*dm^-1]
+ 632.8  1.96        0.12
+ 589.3  2.10        0.15        0.00 ##
+ 579.0  2.14        0.15
+ 546.0  2.27        0.18
+ 436.0  2.84        0.37
+ 365.0  3.40        0.81
+ 
+ sTD-DFT done.
+Mon Jan 17 15:25:35 EST 2022

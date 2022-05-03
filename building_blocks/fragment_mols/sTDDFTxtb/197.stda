@@ -1,0 +1,93 @@
+Mon Jan 17 15:27:52 EST 2022
+
+
+                 *********************************************
+                 *                                           *
+                 *               s  T  D  A                  *
+                 *                                           *
+                 *                S. Grimme                  *
+                 * Mulliken Center for Theoretical Chemistry *
+                 *             Universitaet Bonn             *
+                 *              Version 1.6.2                *
+                 *       Tue Sep 10 14:44:30 CET 2020        *
+                 *********************************************
+ 
+ Please cite as:
+ S. Grimme, J. Chem. Phys. 138 (2013) 244104
+ 
+ With contributions from:
+ C. Bannwarth, P. Shushkov, M. de Wergifosse
+ 
+======================================================================
+ 
+ reading an xTB output...
+ 
+ reading: wfn.xtb
+======================================================================
+                    M O / A O    I N P U T 
+======================================================================
+atom  #          x             y             z            charge
+  F   1     -1.79505068   -4.08955593    1.17351981         9.00
+  C   2      0.34336320   -2.79036934    1.52009555         6.00
+  C   3      2.59837318   -4.08615442    1.79580657         6.00
+  C   4      4.81180918   -2.73972468    2.15447655         6.00
+  F   5      6.99047423   -3.98996737    2.42092791         9.00
+  C   6      4.77042419   -0.11111589    2.23686861         6.00
+  F   7      6.90864910    1.18807070    2.58344435         9.00
+  C   8      2.51522524    1.18466920    1.96115759         6.00
+  C   9      0.30197821   -0.16176054    1.60248761         6.00
+  F  10     -1.87668684    1.08848215    1.33603625         9.00
+  H  11      2.63068749   -6.12176721    1.73193383         1.00
+  H  12      2.48309990    3.22028199    2.02503033         1.00
+
+ # atoms          =   12
+ # mos            =   69
+ # primitive  aos =  486
+ # contracted aos =   90
+
+ spherical AO basis
+======================================================================
+                    A O   I N T E G R A L S
+======================================================================
+ memory needed for AO int data: 319 Kb
+ done.
+  
+Restricted MOs found... RKS-sTD-DFT will be performed
+  
+======================================================================
+                    s T D A
+======================================================================
+ spectral range up to (eV)     :    5.00000000000000     
+ occ MO cut-off (eV)           :   -20.7498433586542     
+ virtMO cut-off (eV)           :   -2.35545066340325     
+ perturbation thr              :   1.000000000000000E-004
+ triplet                       :  F
+ MOs in TDA :           11
+ oMOs in TDA:            5
+ vMOs in TDA:            6
+ sorting MOs ...
+ reading and transforming R..V..L AO ints ...
+ ints done.
+ S^1/2 ...
+ S^1/2 orthogonalized MO coefficients done.
+
+ SCF atom population (using active MOs):
+  0.777  0.985  1.291  0.985  0.776  0.985  0.776  1.291  0.985  0.777
+  0.185  0.185
+ 
+ # electrons in TDA:  10.000
+ 
+ 
+ ax(DF)   :   0.500000000000000     
+ s^K      :    2.00000000000000     
+ beta  (J):    4.00000000000000     
+ alpha (K):    2.00000000000000     
+ 
+ hardness table read.
+ setting up gammas ...
+ memory needed for q data (Mb)                      0
+ computing q(ij,n) ...
+ 
+           0 CSF included by energy.
+ 
+          30 considered in PT2.

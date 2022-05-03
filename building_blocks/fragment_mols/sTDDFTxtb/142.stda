@@ -1,0 +1,60 @@
+Mon Jan 17 15:26:09 EST 2022
+
+
+                 *********************************************
+                 *                                           *
+                 *               s  T  D  A                  *
+                 *                                           *
+                 *                S. Grimme                  *
+                 * Mulliken Center for Theoretical Chemistry *
+                 *             Universitaet Bonn             *
+                 *              Version 1.6.2                *
+                 *       Tue Sep 10 14:44:30 CET 2020        *
+                 *********************************************
+ 
+ Please cite as:
+ S. Grimme, J. Chem. Phys. 138 (2013) 244104
+ 
+ With contributions from:
+ C. Bannwarth, P. Shushkov, M. de Wergifosse
+ 
+======================================================================
+ 
+ reading an xTB output...
+ 
+ reading: wfn.xtb
+======================================================================
+                    M O / A O    I N P U T 
+======================================================================
+atom #          x             y             z            charge
+  C  1      2.19302696   -2.62445140    4.85621774         6.00
+  H  2      3.22160480   -4.19273496    5.67220141         1.00
+  H  3      0.31350553   -2.54999620    5.65972922         1.00
+  H  4      2.05923437   -2.87672981    2.83099844         1.00
+  H  5      3.17776316   -0.87834462    5.26213088         1.00
+
+ # atoms          =    5
+ # mos            =   21
+ # primitive  aos =  136
+ # contracted aos =   28
+
+ spherical AO basis
+======================================================================
+                    A O   I N T E G R A L S
+======================================================================
+ memory needed for AO int data:  31 Kb
+ done.
+  
+Restricted MOs found... RKS-sTD-DFT will be performed
+  
+======================================================================
+                    s T D A
+======================================================================
+ spectral range up to (eV)     :    5.00000000000000     
+ occ MO cut-off (eV)           :   -18.2043445708159     
+ virtMO cut-off (eV)           :   -6.04858612130740     
+ perturbation thr              :   1.000000000000000E-004
+ triplet                       :  F
+ MOs in TDA :            0
+ oMOs in TDA:            0
+ vMOs in TDA:            0
