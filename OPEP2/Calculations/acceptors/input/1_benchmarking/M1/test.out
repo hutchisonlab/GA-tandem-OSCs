@@ -1,0 +1,11 @@
+M1
+M1
+abnormal termination of xtb
+cp: cannot stat 'xtbopt.xyz': No such file or directory
+==============================
+*** Open Babel Error  in OpenAndSetFormat
+  Cannot open xtbopt.xyz
+0 molecules converted
+[file orca_main/run.cpp, line 9893]: Cannot open input file: xtbopt.inp
+
+cp: cannot stat '/scratch/slurm-4711627/xtbopt.prop': No such file or directory

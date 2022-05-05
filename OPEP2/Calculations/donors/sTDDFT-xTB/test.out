@@ -1,0 +1,52 @@
+2T-TTC-BDTFT.xyz
+copying 2T-TTC-BDTFT.xyz
+copying H13.xyz
+copying P-FP.xyz
+copying P-FT.xyz
+copying PBDT-DTN.xyz
+copying PBT-F.xyz
+copying PDBT-2Cl.xyz
+copying PDBT-2F.xyz
+copying PDBT-Cl.xyz
+copying PDBT-F.xyz
+copying PDBT-T1.xyz
+copying P_T4-iI-M_.xyz
+2T-TTC-BDTFT.xyz
+H13.xyz
+P-FP.xyz
+P-FT.xyz
+PBDT-DTN.xyz
+PBT-F.xyz
+PDBT-2Cl.xyz
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+xtb4stda           000000000142A4D4  Unknown               Unknown  Unknown
+xtb4stda           00000000015F2280  Unknown               Unknown  Unknown
+xtb4stda           0000000000473860  Unknown               Unknown  Unknown
+xtb4stda           0000000000405372  Unknown               Unknown  Unknown
+xtb4stda           000000000040205E  Unknown               Unknown  Unknown
+xtb4stda           00000000015F3720  Unknown               Unknown  Unknown
+xtb4stda           0000000000401F47  Unknown               Unknown  Unknown
+PDBT-2F.xyz
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+xtb4stda           000000000142A4D4  Unknown               Unknown  Unknown
+xtb4stda           00000000015F2280  Unknown               Unknown  Unknown
+xtb4stda           0000000000473860  Unknown               Unknown  Unknown
+xtb4stda           0000000000405372  Unknown               Unknown  Unknown
+xtb4stda           000000000040205E  Unknown               Unknown  Unknown
+xtb4stda           00000000015F3720  Unknown               Unknown  Unknown
+xtb4stda           0000000000401F47  Unknown               Unknown  Unknown
+PDBT-Cl.xyz
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+xtb4stda           000000000142A4D4  Unknown               Unknown  Unknown
+xtb4stda           00000000015F2280  Unknown               Unknown  Unknown
+xtb4stda           0000000000473860  Unknown               Unknown  Unknown
+xtb4stda           0000000000405372  Unknown               Unknown  Unknown
+xtb4stda           000000000040205E  Unknown               Unknown  Unknown
+xtb4stda           00000000015F3720  Unknown               Unknown  Unknown
+xtb4stda           0000000000401F47  Unknown               Unknown  Unknown
+PDBT-F.xyz
+PDBT-T1.xyz
+P_T4-iI-M_.xyz

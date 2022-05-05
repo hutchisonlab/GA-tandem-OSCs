@@ -1,0 +1,667 @@
+2D-PBTCl.mol
+copying 2D-PBTCl.mol
+copying 2D-PBTCl2.mol
+copying 2T-TTC-BDTFT.mol
+copying 2TC_TT_BDTFT.mol
+copying 3BDT-4.mol
+copying 3BDT-5.mol
+copying B1.mol
+copying BDT-2DPP.mol
+copying BDT3TR.mol
+copying BDTS-2DPP.mol
+copying BO2FC8.mol
+copying BSCl-C2.mol
+copying BSFTR.mol
+copying BTR-Cl.mol
+copying BTR.mol
+copying D18.mol
+copying DR3TBDTT.mol
+copying DRBDT-STVT.mol
+copying DRBDT-TVT.mol
+copying DRCN5T.mol
+copying DRTB-T-C4.mol
+copying F1.mol
+copying FTAZ.mol
+copying H11.mol
+copying H12.mol
+copying H13.mol
+copying H14.mol
+copying HFQx-T.mol
+copying HTAZ.mol
+copying J100.mol
+copying J101.mol
+copying J11.mol
+copying J12.mol
+copying J46.mol
+copying J47.mol
+copying J50.mol
+copying J51.mol
+copying J52-2F.mol
+copying J52-Cl.mol
+copying J60.mol
+copying J64.mol
+copying J71-Cl.mol
+copying J71.mol
+copying J81.mol
+copying J91.mol
+copying L1.mol
+copying L2.mol
+copying NDTR.mol
+copying P-4FP.mol
+copying P-CIT.mol
+copying P-FP.mol
+copying P-FT.mol
+copying P-P.mol
+copying P104.mol
+copying P1_li2020.mol
+copying P1_mishra.mol
+copying P1_yang.mol
+copying P2.mol
+copying P2F-EHp.mol
+copying P2_li2020.mol
+copying P2_yang.mol
+copying P3HT.mol
+copying P3_yang.mol
+copying P4_yang.mol
+copying P5T-2F.mol
+copying P5T.mol
+copying PB24-3TDC.mol
+copying PB2T.mol
+copying PB3T.mol
+copying PBB-Cl.mol
+copying PBB-F.mol
+copying PBB-H.mol
+copying PBB.mol
+copying PBBSB.mol
+copying PBBSe-Cl.mol
+copying PBBSe-H.mol
+copying PBCT-2F.mol
+copying PBDB-BzT.mol
+copying PBDB-ST.mol
+copying PBDB-T-2Cl.mol
+copying PBDB-T-SF.mol
+copying PBDB-T.mol
+copying PBDB-TF.mol
+copying PBDB-TSCl.mol
+copying PBDBT-4Cl.mol
+copying PBDD4T-2F.mol
+copying PBDD4T.mol
+copying PBDE-DFDT.mol
+copying PBDE-TT.mol
+copying PBDS-TZ.mol
+copying PBDT-3TCO.mol
+copying PBDT-DTN.mol
+copying PBDT-NQx.mol
+copying PBDT-S-2TC.mol
+copying PBDT-Se-TAZ.mol
+copying PBDT-TDZ.mol
+copying PBDT-TS1.mol
+copying PBDTNO-BDD.mol
+copying PBDTNS-BDD.mol
+copying PBDTS-DTBTO.mol
+copying PBDTS-NQx.mol
+copying PBDTS-Se-TAZ.mol
+copying PBDTS-TDZ.mol
+copying PBDTS-TZNT.mol
+copying PBDTSF-TZNT.mol
+copying PBDTTAZ-NaPh.mol
+copying PBDTTPD.mol
+copying PBDTTS-TTffBT.mol
+copying PBDTTT-E-T.mol
+copying PBFSF.mol
+copying PBFZ-OP.mol
+copying PBN-S.mol
+copying PBPD-Th.mol
+copying PBQ-0F.mol
+copying PBQ-4F.mol
+copying PBQ-QF.mol
+copying PBQx-TF.mol
+copying PBT-Cl.mol
+copying PBT-F.mol
+copying PBT-S-TTz.mol
+copying PBT-SF.mol
+copying PBT-TTz.mol
+copying PBT1-C-2Cl.mol
+copying PBT1-C.mol
+copying PBT1Cl-Bz.mol
+copying PBT2Clas-Bz.mol
+copying PBT4Cl-Bz.mol
+copying PBTA-BO.mol
+copying PBTA-PS.mol
+copying PBTA-PSF.mol
+copying PBTCl.mol
+copying PBTIBDTT.mol
+copying PBZ-m-CF3.mol
+copying PBZ1.mol
+copying PCDTBT.mol
+copying PCE10-2Cl.mol
+copying PCE10-2F.mol
+copying PCE10-SF.mol
+copying PCl3BDB-T.mol
+copying PCl4BDB-T.mol
+copying PDBT-2Cl.mol
+copying PDBT-2F.mol
+copying PDBT-Cl.mol
+copying PDBT-F.mol
+copying PDBT-T1.mol
+copying PDCBT-2Cl.mol
+copying PDCBT-2F.mol
+copying PDCBT-Cl.mol
+copying PDCBT-F.mol
+copying PDCBT.mol
+copying PDTF-TZNT.mol
+copying PDTH-TZNT.mol
+copying PDTSBT.mol
+copying PE31.mol
+copying PE32.mol
+copying PE4.mol
+copying PFBDB-T.mol
+copying PFOPB.mol
+copying PIDT-DTN.mol
+copying PIDTTDTffBTA.mol
+copying POPB.mol
+copying PPDT2FBT.mol
+copying PT4FB.mol
+copying PTB7-Th.mol
+copying PTB7.mol
+copying PTBB-m.mol
+copying PTBB-o.mol
+copying PTBB-p.mol
+copying PTBTz-2.mol
+copying PTFB-O.mol
+copying PTFB-P.mol
+copying PTIBT.mol
+copying PTO2.mol
+copying PTPD.mol
+copying PTPDBDT.mol
+copying PTQ10.mol
+copying PTQ11.mol
+copying PTQ2.mol
+copying PTQ7.mol
+copying PTQ8.mol
+copying PTQ9.mol
+copying PTT4FB.mol
+copying PTZ1.mol
+copying PTZ6.mol
+copying PTzBI-DT.mol
+copying PTzBI-oF.mol
+copying PTzBI.mol
+copying P_T4-DPP-M_.mol
+copying P_T4-TPD-M_.mol
+copying P_T4-iI-M_.mol
+copying P_suman.mol
+copying PbiTPD.mol
+copying PfBTAZ.mol
+copying PfBTAZS.mol
+copying PffBT-DPP.mol
+copying PffBT4T-2DT.mol
+copying PffBT4T-B.mol
+copying PffQx-PS.mol
+copying PffQx-T.mol
+copying PffT2-FTAZ-2DT.mol
+copying PhI-ffBT.mol
+copying PvBDT-Cl.mol
+copying PvBDT-F.mol
+copying PvBDTTAZ.mol
+copying QX2.mol
+copying Qx-10F.mol
+copying Qx-12F.mol
+copying Qx-8F.mol
+copying SM-Cl.mol
+copying SM.mol
+copying SM1-F.mol
+copying SM1-S.mol
+copying SZ5.mol
+copying T-EHPPD-T-EHBDT.mol
+copying TPD-3F.mol
+copying TTFQx-T1.mol
+copying W1.mol
+copying ZR1.mol
+copying asy-PBDBTN.mol
+copying ffPhI-ffBT.mol
+copying m-PBDTPS-FTAZ.mol
+copying p_chen.mol
+-rw-r--r-- 1 blp62 ghutchison 19586 Dec 28 11:46 2D-PBTCl.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 19586 Dec 28 11:46 2D-PBTCl2.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24126 Dec 28 11:46 2T-TTC-BDTFT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24068 Dec 28 11:46 2TC_TT_BDTFT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 18784 Dec 28 11:46 3BDT-4.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 18556 Dec 28 11:46 3BDT-5.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 14008 Dec 28 11:46 B1.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 11432 Dec 28 11:46 BDT-2DPP.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21220 Dec 28 11:46 BDT3TR.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 11616 Dec 28 11:46 BDTS-2DPP.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 23240 Dec 28 11:46 BO2FC8.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 12720 Dec 28 11:46 BSCl-C2.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 13456 Dec 28 11:46 BSFTR.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 13272 Dec 28 11:46 BTR-Cl.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 14376 Dec 28 11:46 BTR.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24476 Dec 28 11:46 D18.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 13272 Dec 28 11:46 DR3TBDTT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 15524 Dec 28 11:46 DRBDT-STVT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 15340 Dec 28 11:46 DRBDT-TVT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 9368 Dec 28 11:46 DRCN5T.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 15016 Dec 28 11:46 DRTB-T-C4.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 16694 Dec 28 11:46 F1.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 17312 Dec 28 11:46 FTAZ.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 12904 Dec 28 11:46 H11.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 11756 Dec 28 11:46 H12.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 12930 Dec 28 11:46 H13.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 12904 Dec 28 11:46 H14.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 29720 Dec 28 11:46 HFQx-T.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 17312 Dec 28 11:46 HTAZ.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 29588 Dec 28 11:46 J100.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 29588 Dec 28 11:46 J101.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21308 Dec 28 11:46 J11.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21860 Dec 28 11:46 J12.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 23096 Dec 28 11:46 J46.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 31376 Dec 28 11:46 J47.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21308 Dec 28 11:46 J50.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21308 Dec 28 11:46 J51.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21308 Dec 28 11:46 J52-2F.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21308 Dec 28 11:46 J52-Cl.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21860 Dec 28 11:46 J60.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 29168 Dec 28 11:46 J64.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 29588 Dec 28 11:46 J71-Cl.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 30140 Dec 28 11:46 J71.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 29588 Dec 28 11:46 J81.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21308 Dec 28 11:46 J91.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 23858 Dec 28 11:46 L1.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 23858 Dec 28 11:46 L2.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 13846 Dec 28 11:46 NDTR.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 22964 Dec 28 11:46 P-4FP.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21308 Dec 28 11:46 P-CIT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 23112 Dec 28 11:46 P-FP.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21334 Dec 28 11:46 P-FT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 22964 Dec 28 11:46 P-P.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 18272 Dec 28 11:46 P104.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 27636 Dec 28 11:46 P1_li2020.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 15932 Dec 28 11:46 P1_mishra.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 8356 Dec 28 11:46 P1_yang.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 23726 Dec 28 11:46 P2.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 25790 Dec 28 11:46 P2F-EHp.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 27636 Dec 28 11:46 P2_li2020.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 8356 Dec 28 11:46 P2_yang.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 8150 Dec 28 11:46 P3HT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 8356 Dec 28 11:46 P3_yang.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 8356 Dec 28 11:46 P4_yang.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 16208 Dec 28 11:46 P5T-2F.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 16208 Dec 28 11:46 P5T.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 20348 Dec 28 11:46 PB24-3TDC.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21176 Dec 28 11:46 PB2T.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 23726 Dec 28 11:46 PB3T.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 27578 Dec 28 11:46 PBB-Cl.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 27600 Dec 28 11:46 PBB-F.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 27578 Dec 28 11:46 PBB-H.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 20138 Dec 28 11:46 PBB.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 26198 Dec 28 11:46 PBBSB.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24134 Dec 28 11:46 PBBSe-Cl.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24134 Dec 28 11:46 PBBSe-H.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21794 Dec 28 11:46 PBCT-2F.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 27578 Dec 28 11:46 PBDB-BzT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24686 Dec 28 11:46 PBDB-ST.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24134 Dec 28 11:46 PBDB-T-2Cl.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24686 Dec 28 11:46 PBDB-T-SF.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24134 Dec 28 11:46 PBDB-T.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24134 Dec 28 11:46 PBDB-TF.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24686 Dec 28 11:46 PBDB-TSCl.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24134 Dec 28 11:46 PBDBT-4Cl.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 19520 Dec 28 11:46 PBDD4T-2F.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 19520 Dec 28 11:46 PBDD4T.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24344 Dec 28 11:46 PBDE-DFDT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24068 Dec 28 11:46 PBDE-TT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 30140 Dec 28 11:46 PBDS-TZ.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 22898 Dec 28 11:46 PBDT-3TCO.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 25048 Dec 28 11:46 PBDT-DTN.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 37712 Dec 28 11:46 PBDT-NQx.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 19244 Dec 28 11:46 PBDT-S-2TC.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21308 Dec 28 11:46 PBDT-Se-TAZ.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 20966 Dec 28 11:46 PBDT-TDZ.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 18140 Dec 28 11:46 PBDT-TS1.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 29786 Dec 28 11:46 PBDTNO-BDD.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 29786 Dec 28 11:46 PBDTNS-BDD.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 23792 Dec 28 11:46 PBDTS-DTBTO.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 38264 Dec 28 11:46 PBDTS-NQx.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21860 Dec 28 11:46 PBDTS-Se-TAZ.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21518 Dec 28 11:46 PBDTS-TDZ.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 25856 Dec 28 11:46 PBDTS-TZNT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 25856 Dec 28 11:46 PBDTSF-TZNT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 22478 Dec 28 11:46 PBDTTAZ-NaPh.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 13592 Dec 28 11:46 PBDTTPD.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 25028 Dec 28 11:46 PBDTTS-TTffBT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 17588 Dec 28 11:46 PBDTTT-E-T.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 26198 Dec 28 11:46 PBFSF.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 23516 Dec 28 11:46 PBFZ-OP.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 25514 Dec 28 11:46 PBN-S.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 26342 Dec 28 11:46 PBPD-Th.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 29720 Dec 28 11:46 PBQ-0F.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 29720 Dec 28 11:46 PBQ-4F.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 29720 Dec 28 11:46 PBQ-QF.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 25856 Dec 28 11:46 PBQx-TF.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 23240 Dec 28 11:46 PBT-Cl.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 23266 Dec 28 11:46 PBT-F.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 22412 Dec 28 11:46 PBT-S-TTz.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 23818 Dec 28 11:46 PBT-SF.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21860 Dec 28 11:46 PBT-TTz.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 25790 Dec 28 11:46 PBT1-C-2Cl.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 25790 Dec 28 11:46 PBT1-C.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21308 Dec 28 11:46 PBT1Cl-Bz.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21308 Dec 28 11:46 PBT2Clas-Bz.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21308 Dec 28 11:46 PBT4Cl-Bz.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24620 Dec 28 11:46 PBTA-BO.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 23516 Dec 28 11:46 PBTA-PS.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 23516 Dec 28 11:46 PBTA-PSF.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 17588 Dec 28 11:46 PBTCl.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 26342 Dec 28 11:46 PBTIBDTT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 25172 Dec 28 11:46 PBZ-m-CF3.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 23516 Dec 28 11:46 PBZ1.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 14828 Dec 28 11:46 PCDTBT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 17588 Dec 28 11:46 PCE10-2Cl.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 17588 Dec 28 11:46 PCE10-2F.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 18140 Dec 28 11:46 PCE10-SF.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24134 Dec 28 11:46 PCl3BDB-T.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24134 Dec 28 11:46 PCl4BDB-T.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 26024 Dec 28 11:46 PDBT-2Cl.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 25970 Dec 28 11:46 PDBT-2F.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 26008 Dec 28 11:46 PDBT-Cl.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 25964 Dec 28 11:46 PDBT-F.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 25942 Dec 28 11:46 PDBT-T1.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 13250 Dec 28 11:46 PDCBT-2Cl.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 13250 Dec 28 11:46 PDCBT-2F.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 11594 Dec 28 11:46 PDCBT-Cl.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 13250 Dec 28 11:46 PDCBT-F.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 13250 Dec 28 11:46 PDCBT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 20690 Dec 28 11:46 PDTF-TZNT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 20690 Dec 28 11:46 PDTH-TZNT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 11108 Dec 28 11:46 PDTSBT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21308 Dec 28 11:46 PE31.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 23516 Dec 28 11:46 PE32.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 26408 Dec 28 11:46 PE4.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24134 Dec 28 11:46 PFBDB-T.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 26342 Dec 28 11:46 PFOPB.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 38474 Dec 28 11:46 PIDT-DTN.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 39920 Dec 28 11:46 PIDTTDTffBTA.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 26342 Dec 28 11:46 POPB.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 14144 Dec 28 11:46 PPDT2FBT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 19520 Dec 28 11:46 PT4FB.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 17588 Dec 28 11:46 PTB7-Th.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 14144 Dec 28 11:46 PTB7.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 26342 Dec 28 11:46 PTBB-m.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 26342 Dec 28 11:46 PTBB-o.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 26342 Dec 28 11:46 PTBB-p.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21032 Dec 28 11:46 PTBTz-2.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 19520 Dec 28 11:46 PTFB-O.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 19520 Dec 28 11:46 PTFB-P.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 12488 Dec 28 11:46 PTIBT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 16694 Dec 28 11:46 PTO2.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21032 Dec 28 11:46 PTPD.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 17036 Dec 28 11:46 PTPDBDT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 8216 Dec 28 11:46 PTQ10.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 9044 Dec 28 11:46 PTQ11.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 16694 Dec 28 11:46 PTQ2.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 8216 Dec 28 11:46 PTQ7.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 8216 Dec 28 11:46 PTQ8.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 8216 Dec 28 11:46 PTQ9.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 23516 Dec 28 11:46 PTT4FB.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21860 Dec 28 11:46 PTZ1.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 29036 Dec 28 11:46 PTZ6.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 29234 Dec 28 11:46 PTzBI-DT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24134 Dec 28 11:46 PTzBI-oF.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24134 Dec 28 11:46 PTzBI.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 16694 Dec 28 11:46 P_T4-DPP-M_.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 15590 Dec 28 11:46 P_T4-TPD-M_.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21300 Dec 28 11:46 P_T4-iI-M_.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 20270 Dec 28 11:46 P_suman.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 25856 Dec 28 11:46 PbiTPD.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 19862 Dec 28 11:46 PfBTAZ.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 19862 Dec 28 11:46 PfBTAZS.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21518 Dec 28 11:46 PffBT-DPP.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 14762 Dec 28 11:46 PffBT4T-2DT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 17588 Dec 28 11:46 PffBT4T-B.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 31928 Dec 28 11:46 PffQx-PS.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 29720 Dec 28 11:46 PffQx-T.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 16694 Dec 28 11:46 PffT2-FTAZ-2DT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 20414 Dec 28 11:46 PhI-ffBT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24134 Dec 28 11:46 PvBDT-Cl.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 24134 Dec 28 11:46 PvBDT-F.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21308 Dec 28 11:46 PvBDTTAZ.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 27512 Dec 28 11:46 QX2.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 29720 Dec 28 11:46 Qx-10F.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 29720 Dec 28 11:46 Qx-12F.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 29720 Dec 28 11:46 Qx-8F.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 13044 Dec 28 11:46 SM-Cl.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 13044 Dec 28 11:46 SM.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 13044 Dec 28 11:46 SM1-F.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 13228 Dec 28 11:46 SM1-S.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 15428 Dec 28 11:46 SZ5.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21308 Dec 28 11:46 T-EHPPD-T-EHBDT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21032 Dec 28 11:46 TPD-3F.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 27512 Dec 28 11:46 TTFQx-T1.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 22898 Dec 28 11:46 W1.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 11432 Dec 28 11:46 ZR1.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 23306 Dec 28 11:46 asy-PBDBTN.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 20414 Dec 28 11:46 ffPhI-ffBT.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 23516 Dec 28 11:46 m-PBDTPS-FTAZ.mol
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 18272 Dec 28 11:46 p_chen.mol
+normal termination of xtb

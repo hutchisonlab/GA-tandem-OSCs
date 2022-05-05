@@ -1,0 +1,151 @@
+2D-PBTCl.xyz
+copying 2D-PBTCl.xyz
+copying 3BDT-5.xyz
+copying BSCI-C2.xyz
+copying BTR-Cl.xyz
+copying BTR.xyz
+copying F1.xyz
+copying HFQx-T.xyz
+copying J11.xyz
+copying J12.xyz
+copying P104.xyz
+copying P1_mishra.xyz
+copying P1_yang.xyz
+copying P2_yang.xyz
+copying P3_yang.xyz
+copying P4_yang.xyz
+copying PB2T.xyz
+copying PB3T.xyz
+copying PBB-Cl.xyz
+copying PBB-F.xyz
+copying PBB.xyz
+copying PBBSe-Cl.xyz
+copying PBBSe-H.xyz
+copying PBDB-DTN.xyz
+copying PBDB-T.xyz
+copying PBDB-TF.xyz
+copying PBDB-TSCl.xyz
+copying PBDT-NQx.xyz
+copying PBT-S-TTz.xyz
+copying PBT1-C-2Cl.xyz
+copying PBT1-C.xyz
+copying PBT1Cl-Bz.xyz
+copying PBT2Clas-Bz.xyz
+copying PDBT-2F.xyz
+copying PDBT-Cl.xyz
+copying PDCBT-2Cl.xyz
+copying PDCBT-2F.xyz
+copying PDCBT-Cl.xyz
+copying PDCBT.xyz
+copying PDTF-TZNT.xyz
+copying PDTH-TZNT.xyz
+copying PIDT-DTN.xyz
+copying PTPD.xyz
+copying PbiTPD.xyz
+copying PvBDT-Cl.xyz
+copying PvBDT-F.xyz
+copying Qx-10F.xyz
+copying Qx-12F.xyz
+copying Qx-8F.xyz
+copying TTFQx-T1.xyz
+copying m-PBDTPS-FTAZ.xyz
+-rw-r--r-- 1 blp62 ghutchison 14276 Dec  2 16:19 2D-PBTCl.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 13586 Dec  2 16:19 3BDT-5.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 9308 Dec  2 16:19 BSCI-C2.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 9722 Dec  2 16:19 BTR-Cl.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 10550 Dec  2 16:19 BTR.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 12206 Dec  2 16:19 F1.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21728 Dec  2 16:19 HFQx-T.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 15518 Dec  2 16:19 J11.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 15932 Dec  2 16:19 J12.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 13241 Dec  2 16:19 P104.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 11585 Dec  2 16:19 P1_mishra.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 6133 Dec  2 16:19 P1_yang.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 6133 Dec  2 16:19 P2_yang.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 6133 Dec  2 16:19 P3_yang.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 6133 Dec  2 16:19 P4_yang.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 15518 Dec  2 16:19 PB2T.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 17381 Dec  2 16:19 PB3T.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 20072 Dec  2 16:19 PBB-Cl.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 20072 Dec  2 16:19 PBB-F.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 14690 Dec  2 16:19 PBB.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 17588 Dec  2 16:19 PBBSe-Cl.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 17588 Dec  2 16:19 PBBSe-H.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 18209 Dec  2 16:19 PBDB-DTN.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 17588 Dec  2 16:19 PBDB-T.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 17588 Dec  2 16:19 PBDB-TF.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 18002 Dec  2 16:19 PBDB-TSCl.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 27524 Dec  2 16:19 PBDT-NQx.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 16346 Dec  2 16:19 PBT-S-TTz.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 18830 Dec  2 16:19 PBT1-C-2Cl.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 18830 Dec  2 16:19 PBT1-C.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 15518 Dec  2 16:19 PBT1Cl-Bz.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 15518 Dec  2 16:19 PBT2Clas-Bz.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 18830 Dec  2 16:19 PDBT-2F.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 18830 Dec  2 16:19 PDBT-Cl.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 9722 Dec  2 16:19 PDCBT-2Cl.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 9722 Dec  2 16:19 PDCBT-2F.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 8480 Dec  2 16:19 PDCBT-Cl.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 9722 Dec  2 16:19 PDCBT.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 15104 Dec  2 16:19 PDTF-TZNT.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 15104 Dec  2 16:19 PDTH-TZNT.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 28145 Dec  2 16:19 PIDT-DTN.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 15311 Dec  2 16:19 PTPD.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 18830 Dec  2 16:19 PbiTPD.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 17588 Dec  2 16:19 PvBDT-Cl.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 17588 Dec  2 16:19 PvBDT-F.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21728 Dec  2 16:19 Qx-10F.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21728 Dec  2 16:19 Qx-12F.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 21728 Dec  2 16:19 Qx-8F.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 20072 Dec  2 16:19 TTFQx-T1.xyz
+normal termination of xtb
+-rw-r--r-- 1 blp62 ghutchison 17174 Dec  2 16:19 m-PBDTPS-FTAZ.xyz
+normal termination of xtb

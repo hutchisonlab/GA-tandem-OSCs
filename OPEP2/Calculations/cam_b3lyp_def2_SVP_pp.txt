@@ -1,0 +1,11 @@
+! CAM-B3LYP def2-SVP def2/J RIJCOSX Grid4 TightSCF
+%maxcore 5000
+%tddft
+    Mode sTDDFT
+    Ethresh 5.0
+    maxcore 5000
+end
+
+%pal
+  nprocs 6
+  end

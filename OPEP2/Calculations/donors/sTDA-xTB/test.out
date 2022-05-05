@@ -1,0 +1,196 @@
+2D-PBTCl.xyz
+copying 2D-PBTCl.xyz
+copying 3BDT-5.xyz
+copying BSCI-C2.xyz
+copying BTR-Cl.xyz
+copying BTR.xyz
+copying F1.xyz
+copying HFQx-T.xyz
+copying J11.xyz
+copying J12.xyz
+copying P104.xyz
+copying P1_mishra.xyz
+copying P1_yang.xyz
+copying P2_yang.xyz
+copying PB2T.xyz
+copying PB3T.xyz
+copying PBB-Cl.xyz
+copying PBB-F.xyz
+copying PBB.xyz
+copying PBBSe-Cl.xyz
+copying PBBSe-H.xyz
+copying PBDB-DTN.xyz
+copying PBDB-T.xyz
+copying PBDB-TF.xyz
+copying PBDB-TSCl.xyz
+copying PBDT-NQx.xyz
+copying PBT-S-TTz.xyz
+copying PBT1-C-2Cl.xyz
+copying PBT1-C.xyz
+copying PBT1Cl-Bz.xyz
+copying PBT2Clas-Bz.xyz
+copying PDBT-2F.xyz
+copying PDBT-Cl.xyz
+copying PDCBT-2Cl.xyz
+copying PDCBT-2F.xyz
+copying PDCBT-Cl.xyz
+copying PDCBT.xyz
+copying PDTF-TZNT.xyz
+copying PDTH-TZNT.xyz
+copying PIDT-DTN.xyz
+copying PTPD.xyz
+copying PbiTPD.xyz
+copying PvBDT-Cl.xyz
+copying PvBDT-F.xyz
+copying Qx-10F.xyz
+copying Qx-12F.xyz
+copying Qx-8F.xyz
+copying TTFQx-T1.xyz
+copying m-PBDTPS-FTAZ.xyz
+2D-PBTCl.xyz
+3BDT-5.xyz
+BSCI-C2.xyz
+BTR-Cl.xyz
+BTR.xyz
+F1.xyz
+HFQx-T.xyz
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+xtb4stda           000000000142A4D4  Unknown               Unknown  Unknown
+xtb4stda           00000000015F2280  Unknown               Unknown  Unknown
+xtb4stda           0000000000473860  Unknown               Unknown  Unknown
+xtb4stda           0000000000405372  Unknown               Unknown  Unknown
+xtb4stda           000000000040205E  Unknown               Unknown  Unknown
+xtb4stda           00000000015F3720  Unknown               Unknown  Unknown
+xtb4stda           0000000000401F47  Unknown               Unknown  Unknown
+J11.xyz
+J12.xyz
+P104.xyz
+P1_mishra.xyz
+P1_yang.xyz
+P2_yang.xyz
+PB2T.xyz
+PB3T.xyz
+PBB-Cl.xyz
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+xtb4stda           000000000142A4D4  Unknown               Unknown  Unknown
+xtb4stda           00000000015F2280  Unknown               Unknown  Unknown
+xtb4stda           0000000000473860  Unknown               Unknown  Unknown
+xtb4stda           0000000000405372  Unknown               Unknown  Unknown
+xtb4stda           000000000040205E  Unknown               Unknown  Unknown
+xtb4stda           00000000015F3720  Unknown               Unknown  Unknown
+xtb4stda           0000000000401F47  Unknown               Unknown  Unknown
+PBB-F.xyz
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+xtb4stda           000000000142A4D4  Unknown               Unknown  Unknown
+xtb4stda           00000000015F2280  Unknown               Unknown  Unknown
+xtb4stda           0000000000473860  Unknown               Unknown  Unknown
+xtb4stda           0000000000405372  Unknown               Unknown  Unknown
+xtb4stda           000000000040205E  Unknown               Unknown  Unknown
+xtb4stda           00000000015F3720  Unknown               Unknown  Unknown
+xtb4stda           0000000000401F47  Unknown               Unknown  Unknown
+PBB.xyz
+PBBSe-Cl.xyz
+PBBSe-H.xyz
+PBDB-DTN.xyz
+PBDB-T.xyz
+PBDB-TF.xyz
+PBDB-TSCl.xyz
+PBDT-NQx.xyz
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+xtb4stda           000000000142A4D4  Unknown               Unknown  Unknown
+xtb4stda           00000000015F2280  Unknown               Unknown  Unknown
+xtb4stda           0000000000473860  Unknown               Unknown  Unknown
+xtb4stda           0000000000405372  Unknown               Unknown  Unknown
+xtb4stda           000000000040205E  Unknown               Unknown  Unknown
+xtb4stda           00000000015F3720  Unknown               Unknown  Unknown
+xtb4stda           0000000000401F47  Unknown               Unknown  Unknown
+PBT-S-TTz.xyz
+PBT1-C-2Cl.xyz
+PBT1-C.xyz
+PBT1Cl-Bz.xyz
+PBT2Clas-Bz.xyz
+PDBT-2F.xyz
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+xtb4stda           000000000142A4D4  Unknown               Unknown  Unknown
+xtb4stda           00000000015F2280  Unknown               Unknown  Unknown
+xtb4stda           0000000000473860  Unknown               Unknown  Unknown
+xtb4stda           0000000000405372  Unknown               Unknown  Unknown
+xtb4stda           000000000040205E  Unknown               Unknown  Unknown
+xtb4stda           00000000015F3720  Unknown               Unknown  Unknown
+xtb4stda           0000000000401F47  Unknown               Unknown  Unknown
+PDBT-Cl.xyz
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+xtb4stda           000000000142A4D4  Unknown               Unknown  Unknown
+xtb4stda           00000000015F2280  Unknown               Unknown  Unknown
+xtb4stda           0000000000473860  Unknown               Unknown  Unknown
+xtb4stda           0000000000405372  Unknown               Unknown  Unknown
+xtb4stda           000000000040205E  Unknown               Unknown  Unknown
+xtb4stda           00000000015F3720  Unknown               Unknown  Unknown
+xtb4stda           0000000000401F47  Unknown               Unknown  Unknown
+PDCBT-2Cl.xyz
+PDCBT-2F.xyz
+PDCBT-Cl.xyz
+PDCBT.xyz
+PDTF-TZNT.xyz
+PDTH-TZNT.xyz
+PIDT-DTN.xyz
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+xtb4stda           000000000142A4D4  Unknown               Unknown  Unknown
+xtb4stda           00000000015F2280  Unknown               Unknown  Unknown
+xtb4stda           0000000000473860  Unknown               Unknown  Unknown
+xtb4stda           0000000000405372  Unknown               Unknown  Unknown
+xtb4stda           000000000040205E  Unknown               Unknown  Unknown
+xtb4stda           00000000015F3720  Unknown               Unknown  Unknown
+xtb4stda           0000000000401F47  Unknown               Unknown  Unknown
+PTPD.xyz
+PbiTPD.xyz
+PvBDT-Cl.xyz
+PvBDT-F.xyz
+Qx-10F.xyz
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+xtb4stda           000000000142A4D4  Unknown               Unknown  Unknown
+xtb4stda           00000000015F2280  Unknown               Unknown  Unknown
+xtb4stda           0000000000473860  Unknown               Unknown  Unknown
+xtb4stda           0000000000405372  Unknown               Unknown  Unknown
+xtb4stda           000000000040205E  Unknown               Unknown  Unknown
+xtb4stda           00000000015F3720  Unknown               Unknown  Unknown
+xtb4stda           0000000000401F47  Unknown               Unknown  Unknown
+Qx-12F.xyz
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+xtb4stda           000000000142A4D4  Unknown               Unknown  Unknown
+xtb4stda           00000000015F2280  Unknown               Unknown  Unknown
+xtb4stda           0000000000473860  Unknown               Unknown  Unknown
+xtb4stda           0000000000405372  Unknown               Unknown  Unknown
+xtb4stda           000000000040205E  Unknown               Unknown  Unknown
+xtb4stda           00000000015F3720  Unknown               Unknown  Unknown
+xtb4stda           0000000000401F47  Unknown               Unknown  Unknown
+Qx-8F.xyz
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+xtb4stda           000000000142A4D4  Unknown               Unknown  Unknown
+xtb4stda           00000000015F2280  Unknown               Unknown  Unknown
+xtb4stda           0000000000473860  Unknown               Unknown  Unknown
+xtb4stda           0000000000405372  Unknown               Unknown  Unknown
+xtb4stda           000000000040205E  Unknown               Unknown  Unknown
+xtb4stda           00000000015F3720  Unknown               Unknown  Unknown
+xtb4stda           0000000000401F47  Unknown               Unknown  Unknown
+TTFQx-T1.xyz
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+xtb4stda           000000000142A4D4  Unknown               Unknown  Unknown
+xtb4stda           00000000015F2280  Unknown               Unknown  Unknown
+xtb4stda           0000000000473860  Unknown               Unknown  Unknown
+xtb4stda           0000000000405372  Unknown               Unknown  Unknown
+xtb4stda           000000000040205E  Unknown               Unknown  Unknown
+xtb4stda           00000000015F3720  Unknown               Unknown  Unknown
+xtb4stda           0000000000401F47  Unknown               Unknown  Unknown
+m-PBDTPS-FTAZ.xyz
