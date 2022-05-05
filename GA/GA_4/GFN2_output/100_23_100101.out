@@ -1,0 +1,183 @@
+      -----------------------------------------------------------      
+     |                   =====================                   |     
+     |                           x T B                           |     
+     |                   =====================                   |     
+     |                         S. Grimme                         |     
+     |          Mulliken Center for Theoretical Chemistry        |     
+     |                    University of Bonn                     |     
+      -----------------------------------------------------------      
+
+   * xtb version 6.4.1 (unknown) compiled by 'oda6@login1.crc.pitt.edu' on 2021-06-25
+
+   xtb is free software: you can redistribute it and/or modify it under
+   the terms of the GNU Lesser General Public License as published by
+   the Free Software Foundation, either version 3 of the License, or
+   (at your option) any later version.
+   
+   xtb is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU Lesser General Public License for more details.
+   
+   Cite this work as:
+   * C. Bannwarth, E. Caldeweyher, S. Ehlert, A. Hansen, P. Pracht,
+     J. Seibert, S. Spicher, S. Grimme, WIREs Comput. Mol. Sci., 2020, 11,
+     e01493. DOI: 10.1002/wcms.1493
+   
+   for GFN2-xTB:
+   * C. Bannwarth, S. Ehlert and S. Grimme., J. Chem. Theory Comput., 2019,
+     15, 1652-1671. DOI: 10.1021/acs.jctc.8b01176
+   for GFN1-xTB:
+   * S. Grimme, C. Bannwarth, P. Shushkov, J. Chem. Theory Comput., 2017,
+     13, 1989-2009. DOI: 10.1021/acs.jctc.7b00118
+   for GFN0-xTB:
+   * P. Pracht, E. Caldeweyher, S. Ehlert, S. Grimme, ChemRxiv, 2019, preprint.
+     DOI: 10.26434/chemrxiv.8326202.v1
+   for GFN-FF:
+   * S. Spicher and S. Grimme, Angew. Chem. Int. Ed., 2020, 59, 15665-15673.
+     DOI: 10.1002/anie.202004239
+   
+   for DFT-D4:
+   * E. Caldeweyher, C. Bannwarth and S. Grimme, J. Chem. Phys., 2017,
+     147, 034112. DOI: 10.1063/1.4993215
+   * E. Caldeweyher, S. Ehlert, A. Hansen, H. Neugebauer, S. Spicher,
+     C. Bannwarth and S. Grimme, J. Chem. Phys., 2019, 150, 154122.
+     DOI: 10.1063/1.5090222
+   * E. Caldeweyher, J.-M. Mewes, S. Ehlert and S. Grimme, Phys. Chem. Chem. Phys.
+     2020, 22, 8499-8512. DOI: 10.1039/D0CP00502A
+   
+   for sTDA-xTB:
+   * S. Grimme and C. Bannwarth, J. Chem. Phys., 2016, 145, 054103.
+     DOI: 10.1063/1.4959605
+   
+   in the mass-spec context:
+   * V. Asgeirsson, C. Bauer and S. Grimme, Chem. Sci., 2017, 8, 4879.
+     DOI: 10.1039/c7sc00601b
+   * J. Koopman and S. Grimme, ACS Omega 2019, 4, 12, 15120-15133.
+     DOI: 10.1021/acsomega.9b02011
+   
+   for metadynamics refer to:
+   * S. Grimme, J. Chem. Theory Comput., 2019, 155, 2847-2862
+     DOI: 10.1021/acs.jctc.9b00143
+   
+   for SPH calculations refer to:
+   * S. Spicher and S. Grimme, J. Chem. Theory Comput., 2021, 17, 1701-1714
+     DOI: 10.1021/acs.jctc.0c01306
+   
+   with help from (in alphabetical order)
+   P. Atkinson, C. Bannwarth, F. Bohle, G. Brandenburg, E. Caldeweyher
+   M. Checinski, S. Dohm, S. Ehlert, S. Ehrlich, I. Gerasimov, J. Koopman
+   C. Lavigne, S. Lehtola, F. März, M. Müller, F. Musil, H. Neugebauer
+   J. Pisarek, C. Plett, P. Pracht, J. Seibert, P. Shushkov, S. Spicher
+   M. Stahn, M. Steiner, T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
+   
+ * started run on 2022/03/07 at 21:24:49.691     
+
+           -------------------------------------------------
+          |                Calculation Setup                |
+           -------------------------------------------------
+
+          program call               : /ihome/ghutchison/oda6/xtb/xtb-641/bin/xtb ../../FF_optimized/100_23_100101.mol -opt
+          hostname                   : smp-n44
+          coordinate file            : ../../FF_optimized/100_23_100101.mol
+          omp threads                :                     8
+          number of atoms            :                   350
+          number of electrons        :                   986
+          charge                     :                     0
+          spin                       :                   0.0
+          first test random number   :      0.74802867769377
+
+   ID    Z sym.   atoms
+    1    6 C      1-8, 10-15, 17-23, 25-30, 32, 34, 35, 37-44, 46, 47, 49-55,
+                  57, 58, 60, 62, 63, 65-72, 74, 75, 77-83, 85, 86, 88, 90,
+                  91, 93-100, 102-107, 109-115, 117-122, 124, 126, 127,
+                  129-136, 138, 139, 141-147, 149, 150, 152, 154, 155,
+                  157-164, 166-171, 173-179, 181-186, 188, 190, 191
+    2   14 Si     9, 24, 101, 116, 165, 180
+    3   16 S      16, 31, 33, 36, 45, 56, 61, 64, 73, 84, 89, 92, 108, 123,
+                  125, 128, 137, 148, 153, 156, 172, 187, 189, 192
+    4   34 Se     48, 59, 76, 87, 140, 151
+    5    1 H      193-350
+
+molecular fragmentation (1/2 indicates fragments):
+111111111111111111111111111111111111111111111111111111111111111111111111
+111111111111111111111111111111111111111111111111111111111111111111111111
+111111111111111111111111111111111111111111111111111111111111111111111111
+111111111111111111111221111111221111111111111111111111111111111111111111
+11111111111211111221111111111111111111111111111111111111111111
+# atoms in fragment 1/2:   343     7
+ fragment masses (1/2) :     3437.70        7.06
+CMA distance (Bohr)    :   5.870
+constraining FC (au)   :  0.0500
+########################################################################
+[WARNING] Please study the warnings concerning your input carefully
+-1- prog_main_parseArguments: the use of '-opt' is discouraged, please use '--opt' next time
+########################################################################
+
+           -------------------------------------------------
+          |                 G F N 2 - x T B                 |
+           -------------------------------------------------
+
+        Reference                      10.1021/acs.jctc.8b01176
+      * Hamiltonian:
+        H0-scaling (s, p, d)           1.850000    2.230000    2.230000
+        zeta-weighting                 0.500000
+      * Dispersion:
+        s8                             2.700000
+        a1                             0.520000
+        a2                             5.000000
+        s9                             5.000000
+      * Repulsion:
+        kExp                           1.500000    1.000000
+        rExp                           1.000000
+      * Coulomb:
+        alpha                          2.000000
+        third order                    shell-resolved
+        anisotropic                    true
+        a3                             3.000000
+        a5                             4.000000
+        cn-shift                       1.200000
+        cn-exp                         4.000000
+        max-rad                        5.000000
+
+
+          ...................................................
+          :                      SETUP                      :
+          :.................................................:
+          :  # basis functions                1142          :
+          :  # atomic orbitals                1106          :
+          :  # shells                          578          :
+          :  # electrons                       986          :
+          :  max. iterations                   250          :
+          :  Hamiltonian                  GFN2-xTB          :
+          :  restarted?                      false          :
+          :  GBSA solvation                  false          :
+          :  PC potential                    false          :
+          :  electronic temp.          300.0000000     K    :
+          :  accuracy                    1.0000000          :
+          :  -> integral cutoff          0.2500000E+02      :
+          :  -> integral neglect         0.1000000E-07      :
+          :  -> SCF convergence          0.1000000E-05 Eh   :
+          :  -> wf. convergence          0.1000000E-03 e    :
+          :  Broyden damping             0.4000000          :
+          ...................................................
+
+ iter      E             dE          RMSdq      gap      omega  full diag
+   1   -527.6799797 -0.527680E+03  0.429E+00    1.30       0.0  T
+   2   -528.6503148 -0.970335E+00  0.234E+00    1.05       1.0  T
+   3   -528.5286679  0.121647E+00  0.128E+00    1.06       1.0  T
+   4   -528.7590622 -0.230394E+00  0.711E-01    1.07       1.0  T
+   5   -528.8562785 -0.972163E-01  0.345E-01    1.05       1.0  T
+   6   -528.8731701 -0.168916E-01  0.180E-01    1.07       1.0  T
+   7   -528.8742835 -0.111339E-02  0.106E-01    1.06       1.0  T
+   8   -528.8762786 -0.199518E-02  0.573E-02    1.06       1.0  T
+   9   -528.8763638 -0.851285E-04  0.361E-02    1.06       1.0  T
+  10   -528.8764823 -0.118558E-03  0.184E-02    1.06       1.0  T
+  11   -528.8765347 -0.523241E-04  0.950E-03    1.06       1.0  T
+  12   -528.8765437 -0.904066E-05  0.509E-03    1.06       1.0  T
+  13   -528.8765477 -0.404200E-05  0.273E-03    1.06       2.0  T
+  14   -528.8765482 -0.445207E-06  0.164E-03    1.06       3.3  T
+  15   -528.8765485 -0.265057E-06  0.909E-04    1.06       5.9  T
+  16   -528.8765485 -0.526757E-07  0.554E-04    1.06       9.6  T
+
+   *** convergence criteria satisfied after 16 iterations ***
