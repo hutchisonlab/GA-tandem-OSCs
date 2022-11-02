@@ -10,13 +10,13 @@ The OPEP2 ML model to predict PCE can be found here: `OPEP2/Prediction_models/en
 
 
 ### Versions of libraries
-python 3.9
-scikit-learn 1.0.2
-rdkit 2021.09.4
-pandas 1.4.0
-scipy 1.7.3
-xgboost 1.5.0
-statsmodels 0.13.2
-lightgbm 3.2.1
-numpy 1.20.0
-matplotlib 3.5.1
+* python 3.9
+* scikit-learn 1.0.2
+* rdkit 2021.09.4
+* pandas 1.4.0
+* scipy 1.7.3
+* xgboost 1.5.0
+* statsmodels 0.13.2
+* lightgbm 3.2.1
+* numpy 1.20.0
+* matplotlib 3.5.1
