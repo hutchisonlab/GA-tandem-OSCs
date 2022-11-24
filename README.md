@@ -8,6 +8,8 @@ The unfiltered dataset containing 1,225 donor/accpetor pairs can be found here: 
 
 The OPEP2 ML model to predict PCE can be found here: `OPEP2/Prediction_models/ensemble_rf_ann_mfcounts_standardized_above10_fixed.pkl`
 
+To retrain the model with new data, a detailed Jupyter notebook can be found here: `OPEP2/train_OPEP2.ipynb`
+
 
 ### Versions of libraries
 * python 3.9
